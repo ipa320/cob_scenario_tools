@@ -1,0 +1,15 @@
+<stack>
+  <description brief="cob_scenario_tools">
+
+    cob_scenario_tools
+
+  </description>
+  <author>Maintained by Tobias Sing</author>
+  <license>LGPL</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cob_scenario_tools</url>
+  <depend stack="executive_smach" /> <!-- smach -->
+  <depend stack="ros" />
+  <depend stack="ros_comm" /> <!-- rospy -->
+
+</stack>

@@ -4,10 +4,13 @@
      cob_state_composer
 
   </description>
-  <author>fmw</author>
-  <license>BSD</license>
+  <author>Tobias Sing</author>
+  <license>LGPL</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/cob_state_composer</url>
+
+  <depend package="rospy"/>
+  <depend package="smach"/>
 
 </package>
 
