@@ -1,0 +1,14 @@
+<package>
+  <description brief="cob_state_composer">
+
+     cob_state_composer
+
+  </description>
+  <author>fmw</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cob_state_composer</url>
+
+</package>
+
+
